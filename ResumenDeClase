@@ -3,16 +3,16 @@ Arduino posee gran variedad en placas para su uso dependiendo de las necesidades
 completas y potentes dentro de la rama de esta tecnología, posee un microcontrolador de 8 bits, es el que más pines tiene,es apto para 
 trabajos grandes y complejos. Podemos usar Arduino como herramienta de prototipado. Existen muchos entornos en donde aplican la tecnología 
 de arduino como:
-Automatización industrial.
-Domótica.
-Herramienta de prototipado.
-Plataforma de entrenamiento para aprendizaje de electrónica.
-Tecnología para artistas.
-Eficiencia energética.
-Monitorización.
-Adquisición de datos.
-DIY.
-Programación.
+-Automatización industrial.
+-Domótica.
+-Herramienta de prototipado.
+-Plataforma de entrenamiento para aprendizaje de electrónica.
+-Tecnología para artistas.
+-Eficiencia energética.
+-Monitorización.
+-Adquisición de datos.
+-DIY.
+-Programación.
 Lo podemos encontrar en la creación de música electrónica, en drones y aviones con más funcionalidades, en impresoras 3D 
 y maquinas CNC por no continuar mencionando demás componentes igual de útiles en la industria.
 Arduino MEGA es un microcontrolador, su voltaje de entrada es de 7 - 12v, y puede conectarse a un computador por medio de un puerto USB.
