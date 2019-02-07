@@ -1,32 +1,21 @@
-ARDUINO:
-
-Las placas arduino ONE y arduino MEGA estan compuestas por dos elementos de entrada el primero: un puerto USB en el caual puede recibir no mas de 5 voltios  y el segundo: una entrada jack en la  cual su capacidad maxima es de 9 voltios para arduino ONE
-Para la placa de arduino MEGA tiene la capacidad de recibir hasta nueve volteos.
-
-Cada placa tiene conexion a tierra, entradas analogas y digitales que permiten llevar a cabo el debido procesamiento del código vinculado a las partes elctronicas.
-Los componentes que caracterizan arduino ONE son: 
-*Puerto u
-*Puerto USB
-*Puerto JACK 
-*Boto reset 
-*Micro controlador 
-*Pines dijitales 
-*Pines analogicos 
-*Regulador de voltaje 
-*Indicador led de alimentacion
-*GND (conexion a tierra)
-
-
 USOS DE ARDUINO MEGA:
-Arduino posee gran variedad en placas para su uso dependiendo de las necesidades del usuario,
-Arduino MEGA es sin duda uno de las placas más completas y potentes dentro de la rama de esta tecnología ,
-posee un microcontrolador de 8 bits,es el que más pines tiene,es apto para trabajos grandes y complejos podemos usar Arduino como herramienta de prototipado. Existen muchos entornos en donde aplican la tecnología de arduino como:
- automatización industrial, domótica, herramienta de prototipado, plataforma de entrenamiento para aprendizaje de electrónica,
- tecnología para artistas, eficiencia energética, monitorización, adquisición de datos, DIY, aprendizaje de habilidades tecnológicas 
- y programación
-Lo podemos encontrar en la creación de música electrónica, en drones y aviones con mas funcionalidades, en impresoras 3D 
-y maquinas CNC y muchas cosas que para la industria son muy beneficiosos.
-Es un microcontrolador, su voltaje de entrada es de 7 - 12v, y puede conectarse a un computador por medio de un puerto USB.
+Arduino posee gran variedad en placas para su uso dependiendo de las necesidades del usuario, este tipo de placa es sin duda uno de las más
+completas y potentes dentro de la rama de esta tecnología, posee un microcontrolador de 8 bits, es el que más pines tiene,es apto para 
+trabajos grandes y complejos. Podemos usar Arduino como herramienta de prototipado. Existen muchos entornos en donde aplican la tecnología 
+de arduino como:
+Automatización industrial.
+Domótica.
+Herramienta de prototipado.
+Plataforma de entrenamiento para aprendizaje de electrónica.
+Tecnología para artistas.
+Eficiencia energética.
+Monitorización.
+Adquisición de datos.
+DIY.
+Programación.
+Lo podemos encontrar en la creación de música electrónica, en drones y aviones con más funcionalidades, en impresoras 3D 
+y maquinas CNC por no continuar mencionando demás componentes igual de útiles en la industria.
+Arduino MEGA es un microcontrolador, su voltaje de entrada es de 7 - 12v, y puede conectarse a un computador por medio de un puerto USB.
 Además, posee un botón de reset, con el que se permite reestablecer los valores de fábrica de Arduino. Posee 54 salidas/entradas digitales.
 Se puede programar mediante Arduino IDE ó Arduino Web Editor.
 ¿Qué es un microprocesador? Es un procesador de dimesiones pequeñas, en los que sus elementos están en un solo circuito integrado. 
