@@ -1,3 +1,22 @@
+ARDUINO:
+
+Las placas arduino ONE y arduino MEGA estan compuestas por dos elementos de entrada el primero: un puerto USB en el caual puede recibir no mas de 5 voltios  y el segundo: una entrada jack en la  cual su capacidad maxima es de 9 voltios para arduino ONE
+Para la placa de arduino MEGA tiene la capacidad de recibir hasta nueve volteos.
+
+Cada placa tiene conexion a tierra, entradas analogas y digitales que permiten llevar a cabo el debido procesamiento del código vinculado a las partes elctronicas.
+Los componentes que caracterizan arduino ONE son: 
+*Puerto u
+*Puerto USB
+*Puerto JACK 
+*Boto reset 
+*Micro controlador 
+*Pines dijitales 
+*Pines analogicos 
+*Regulador de voltaje 
+*Indicador led de alimentacion
+*GND (conexion a tierra)
+
+
 USOS DE ARDUINO MEGA:
 Arduino posee gran variedad en placas para su uso dependiendo de las necesidades del usuario,
 Arduino MEGA es sin duda uno de las placas más completas y potentes dentro de la rama de esta tecnología ,
