@@ -1,9 +1,9 @@
 ARDUINO: 
 
-Las placas arduino ONE y arduino MEGA estan compuestas por dos elementos de entrada el primero: un puerto USB en el caual puede recibir no mas de 5 voltios  y el segundo: una entrada jack en la  cual su capacidad maxima es de 9 voltios para arduino ONE
-Para la placa de arduino MEGA tiene la capacidad de recibir hasta nueve volteos.
+Las placas arduino ONE y arduino MEGA estan compuestas por dos elementos de entrada el primero: un puerto USB en el cual puede recibir no más de 5 voltios  y el segundo: una entrada jack, siendo su capacidad máxima de 9 voltios para arduino ONE.
+La placa de arduino MEGA tiene una capacidad de hasta 9 voltios.
 
-Cada placa tiene conexion a tierra, entradas analogas y digitales que permiten llevar a cabo el debido procesamiento del código vinculado a las partes elctronicas 
+Cada placa tiene conexión a tierra, entradas análogas y digitales que permiten llevar a cabo el debido procesamiento del código vinculado a las partes electrónicas 
 
 Arduino Mega: Es un microcontrolador, su voltaje de entrada es de 7 - 12v, y puede conectarse a un computador por medio de un puerto usb. Además, posee un botón de reset, que permite reestablecer los valores de fábrica de Arduino. Posee 54 salidas/entradas digitales. Se puede programar mediante Arduino IDE ó Arduino Web Editor.
-¿Qué es un microprocesador? Es un procesador de dimesiones pequeñas, en los que sus elementos están en un solo circuito integrado. Tiene la capacidad de leer información, y elegir una respuesta entre varias opciones
+¿Qué es un microprocesador? Es un procesador de dimensiones pequeñas, en los que sus elementos están en un solo circuito integrado. Tiene la capacidad de leer información, y elegir una respuesta entre varias opciones
