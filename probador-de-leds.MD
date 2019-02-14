@@ -2,7 +2,6 @@
 ![1](https://github.com/mariacamila55/Primer-Proyecto/blob/master/probador%20de%20leds.jpg)
 ![2](https://github.com/mariacamila55/Primer-Proyecto/blob/master/PROBADOR%20DE%20LEDS%202.jpg)
 ![3](https://github.com/mariacamila55/Primer-Proyecto/blob/master/IMG_4413.jpeg)
-![4](https://github.com/mariacamila55/Primer-Proyecto/blob/master/IMG_4414.jpeg)
  MATERIALES:
  Proto-board
  jumpers
