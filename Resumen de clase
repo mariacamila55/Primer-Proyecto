@@ -20,4 +20,5 @@ Además, posee un botón de reset, con el que se permite reestablecer los valore
 Se puede programar mediante Arduino IDE ó Arduino Web Editor.
 ¿Qué es un microprocesador? Es un procesador de dimesiones pequeñas, en los que sus elementos están en un solo circuito integrado. 
 Tiene la capacidad de leer información, y elegir una respuesta entre varias opciones.
+
 ![1](https://github.com/mariacamila55/Primer-Proyecto/blob/master/Im%C3%A1genes/Arduino.jpg)
