@@ -1,6 +1,6 @@
 
 ![1](https://github.com/mariacamila55/Primer-Proyecto/blob/master/Im%C3%A1genes/PROBADOR%20DE%20LEDS%202.jpg)
-![2]https://github.com/mariacamila55/Primer-Proyecto/blob/master/Im%C3%A1genes/probador%20de%20leds%201.jpg)
+![2](https://github.com/mariacamila55/Primer-Proyecto/blob/master/Im%C3%A1genes/probador%20de%20leds%201.jpg)
 ![3](https://github.com/mariacamila55/Primer-Proyecto/blob/master/Im%C3%A1genes/probador%202.jpeg)
  MATERIALES:
  Proto-board
