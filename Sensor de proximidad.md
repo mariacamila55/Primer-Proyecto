@@ -6,4 +6,4 @@ potenciometro de rotacion
 resistencia variable 
 fotoceldas 
 sensor ultra sonico
-![3](https://github.com/mariacamila55/Primer-Proyecto/blob/master/Archivos%20Sensor%20de%20proximidad/SensorPIR.ino)
+![Código](https://github.com/mariacamila55/Primer-Proyecto/blob/master/Archivos%20Sensor%20de%20proximidad/SensorPIR.ino)
